@@ -122,3 +122,7 @@ rails通过把静态资源变成erb模板文件，然后加入<%= asset_path 'im
 这个示例也可以用于和assets pipeline做比较。fis没有assets的目录规范约束，而且可以以独立工具的方式组合各种前端开发语言（coffee、less、sass/scss、stylus、markdown、jade、ejs、handlebars等等你能想到的），并与其他后端开发语言结合。
 
 assets pipeline的设计思想值得独立成工具用于前端工程，fis就当做这样的一个选择吧。（转自网络）
+
+### 关于git
+*详情可了解：
+*［http://www.cnblogs.com/plinx/archive/2013/04/08/3009159.html］(http://www.cnblogs.com/plinx/archive/2013/04/08/3009159.html)
