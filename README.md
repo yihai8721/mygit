@@ -124,5 +124,4 @@ rails通过把静态资源变成erb模板文件，然后加入<%= asset_path 'im
 assets pipeline的设计思想值得独立成工具用于前端工程，fis就当做这样的一个选择吧。（转自网络）
 
 ### 关于git
-* 详情可了解：
-*［http://www.cnblogs.com/plinx/archive/2013/04/08/3009159.html］(http://www.cnblogs.com/plinx/archive/2013/04/08/3009159.html)
+* 详情：[点击这里了解](http://www.cnblogs.com/plinx/archive/2013/04/08/3009159.html)
